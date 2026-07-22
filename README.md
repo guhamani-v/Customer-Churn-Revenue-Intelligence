@@ -70,3 +70,7 @@ After cleaning, attached the dataset: cleaned\_dataset\_customer.xlsx (excel > c
 
 
 
+
+
+
+
