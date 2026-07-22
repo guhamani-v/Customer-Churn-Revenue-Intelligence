@@ -1,10 +1,10 @@
-###Customer-Churn-Revenue-Intelligence
+## Customer-Churn-Revenue-Intelligence
 
 Cleaning, answering and story telling of customers using Excel, SQL and Power BI
 
 ---
 
-##Project Overview
+## Project Overview
 
 Customer Churn & Revenue Intelligence is an end-to-end data analytics project that explores customer behavior, service usage, and churn patterns in a telecommunications company. 
 
@@ -12,7 +12,7 @@ The project demonstrates a complete analytics workflow by cleaning raw data in E
 
 ---
 
-##Datasets: (excel > raw dataset)
+## Datasets: (excel > raw dataset)
 
 - telecom_customer_churn.csv
 - telecom_data_dictionary.csv
@@ -20,13 +20,13 @@ The project demonstrates a complete analytics workflow by cleaning raw data in E
 
 ---
 
-##Day 1 - Data cleaning (Excel and Power Query)
+## Day 1 - Data cleaning (Excel and Power Query)
 
 #Dataset used: telecom_customer_churn.csv (excel > raw dataset)
 
 ---
 
-#Implementation:
+# Implementation:
 
 Using telecom_customer_churn, raw dataset, cleaned the data of over 7,000 rows using Power Query in excel, identified null values, replaced the null values by investigating the data and provided the right replacement-- not for all columns. Some columns are still left with null values respective of the field
 
