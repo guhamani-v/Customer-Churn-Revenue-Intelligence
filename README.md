@@ -10,7 +10,7 @@ Cleaning, answering and story telling of customers using Excel, SQL and Power BI
 
 
 
-\##Project Overview
+\## Project Overview
 
 
 
@@ -26,7 +26,7 @@ The project demonstrates a complete analytics workflow by cleaning raw data in E
 
 
 
-\##Datasets: (excel > raw dataset)
+\## Datasets: (excel > raw dataset)
 
 
 
@@ -42,11 +42,11 @@ The project demonstrates a complete analytics workflow by cleaning raw data in E
 
 
 
-\##Day 1 - Data cleaning (Excel and Power Query)
+\## Day 1 - Data cleaning (Excel and Power Query)
 
 
 
-\#Dataset used: telecom\_customer\_churn.csv (excel > raw dataset)
+\# Dataset used: telecom\_customer\_churn.csv (excel > raw dataset)
 
 
 
@@ -54,7 +54,7 @@ The project demonstrates a complete analytics workflow by cleaning raw data in E
 
 
 
-\#Implementation:
+\# Implementation:
 
 
 
@@ -70,7 +70,7 @@ After cleaning, attached the dataset: cleaned\_dataset\_customer.xlsx (excel > c
 
 
 
+\## Author \*Guhamani V\*
 
-
-
+&#x20;Data Analyst | Turning Data into actionable insights | SQL | Excel | Power BI
 
