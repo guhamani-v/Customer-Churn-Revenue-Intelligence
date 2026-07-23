@@ -22,7 +22,7 @@ The project demonstrates a complete analytics workflow by cleaning raw data in E
 
 ## Day 1 - Data cleaning (Excel and Power Query)
 
-#Dataset used: telecom_customer_churn.csv (excel > raw dataset)
+# Dataset used: telecom_customer_churn.csv (excel > raw dataset)
 
 ---
 
@@ -33,6 +33,27 @@ Using telecom_customer_churn, raw dataset, cleaned the data of over 7,000 rows u
 For example, customers without phone service naturally have no long-distance charges, and customers without internet service have no internet-related services. 
 
 After cleaning, attached the dataset: cleaned_dataset_customer.xlsx (excel > cleaned dataset)
+
+---
+
+## Day 2 - SQL Database Setup & Exploratory Data Analysis (EDA)
+
+# SQL Queries for Day2.1 (SQL > Day21. CCRI.sql)
+
+---
+
+## Implementation: 
+
+- Created the customer_churn table in PostgreSQL using an appropriate database schema.
+- Modified column data types to resolve schema mismatches before importing.
+- Imported the cleaned dataset (7,043 records) using PostgreSQL's COPY command.
+- Verified that all records were successfully imported.
+- Audited duplicate Customer IDs to ensure record uniqueness.
+- Audited missing Customer IDs to validate data integrity.
+- Explored Customer Status distribution (Stayed, Churned, Joined).
+- Explored Churn Category distribution to understand the available churn classifications before business analysis.
+
+---
 
 ## Author *Guhamani V*
  Data Analyst | Turning Data into actionable insights | SQL | Excel | Power BI
