@@ -38,7 +38,7 @@ After cleaning, attached the dataset: cleaned_dataset_customer.xlsx (excel > cle
 
 ## Day 2 - SQL Database Setup & Exploratory Data Analysis (EDA)
 
-## SQL Queries for Day2.1 (SQL > Day21. CCRI.sql)
+## SQL Queries for Day2.1 (SQL > Day2.1 CCRI.sql)
 
 ---
 
