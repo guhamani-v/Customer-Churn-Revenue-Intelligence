@@ -109,5 +109,78 @@ After cleaning, attached the dataset: cleaned_dataset_customer.xlsx (excel > cle
 
 ---
 
+# Day 5 - Power BI Dashboard Development
+
+## Dashboard 1 - Executive Overview (Power BI > Dashboard-CCRI-PBI.jpg)
+
+## Implementation
+
+Created an executive-level dashboard to provide a high-level overview of customer churn and business performance.
+
+### KPIs
+
+- Total Customers
+- Active Customers
+- Churned Customers
+- Churn Rate
+- Total Revenue
+- Revenue Loss
+- Average Customer Tenure
+- Average Monthly Charge
+
+### Visualizations
+
+- Customer Status Distribution
+- Revenue by Customer Status
+- Why Customers Churned
+- Contract Type Distribution
+- Interactive Slicers
+
+## Business Value
+
+This dashboard enables decision-makers to quickly monitor customer health, understand overall churn performance, and identify major churn categories impacting the business.
+
+---
+
+# Day 6 - Power BI Customer Insights & Risk Analysis
+
+## Dashboard 2 - Customer Insights & Risk Analysis (Power BI > Dashboard-CCRI-PBI-RA.jpg)
+
+### Implementation
+
+Designed a second dashboard focused on customer segmentation and identifying high-risk customer groups using interactive visualizations.
+
+### Visualizations
+
+- Age Group Distribution
+- Churn Rate by Contract
+- Risk Matrix (Contract × Internet Type)
+- Average Monthly Charge by Tenure Group
+- Top 5 Cities by Churn Rate
+- Churn Rate by Tenure Group
+- Interactive Slicers
+
+## Business Value
+
+This dashboard helps identify customer segments with the highest churn risk, allowing the business to prioritize targeted retention campaigns and improve customer lifetime value.
+
+---
+
+# Business Recommendations
+
+### 1. Improve Early Customer Retention
+
+Implement onboarding programs and personalized offers during customer's first year to reduce early churn.
+
+### 2. Encourage Long-Term Contracts
+
+Offer discounts or loyalty incentives to migrate Month-to-Month customers to One-Year or Two-Year contracts.
+
+### 3. Improve Fiber Optic Customer Experience
+
+Investigate service quality, pricing, and customer support for Fiber Optic users to reduce churn within this segment.
+
+---
+
 ## Author *Guhamani V*
  Data Analyst | Turning Data into actionable insights | SQL | Excel | Power BI
